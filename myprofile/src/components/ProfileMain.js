@@ -1,10 +1,10 @@
 import React from 'react';
+import '../styles/components/profileMain.scss';
 
 
 export default function ProfileMain() {
+
     return(
-        <div>
-            
-        </div>
+        <div className="backgroundimage"></div>
     );
 }

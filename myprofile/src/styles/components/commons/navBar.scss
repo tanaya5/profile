@@ -1,0 +1,14 @@
+.navContainer{
+    height: 50px;
+    padding: 20px 40px 20px 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    .navTab{
+        font-family: 'gotham rounded', 'open-sans', sans-serif;
+        padding-right: 40px;
+        font-size: x-large;
+        align-self: center;
+    }
+}
